@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Gallery</title>
+	</head>
+	<body bgcolor="#FFEBCD">
+		<h2>Youngling photoshootout</h2>
+		<img src="http://vignette2.wikia.nocookie.net/starwars/images/f/f1/Anakin_Skywalker_slave.jpg/revision/latest/scale-to-width-down/150?cb=20090520190351" alt="Mountain View" style="width:170px;height:200px;">
+		<p>I just got discovered by the Jedi master</p>
+		
+		<h2>At the council</h2>
+		<img src="http://vignette4.wikia.nocookie.net/starwars/images/0/03/Young_Anakin_before_the_Council.jpeg/revision/latest/scale-to-width-down/250?cb=20151002173801" alt="Mountain View" style="width:250px;height:170px;">
+		<p>The council meeting that I got denied at first.</p>
+		
+		<h2>In love</h2>
+		<img src="http://vignette2.wikia.nocookie.net/starwars/images/c/c1/Wedding_of_Anakin_and_Padme.png/revision/latest/scale-to-width-down/240?cb=20151116143654&format=webp" alt="Mountain View" style="width:250px;height:200px;">
+		<p>Our hidden wedding, disobbeying the Jedi code.</p>
+		
+		<h2>Being bad ass</h2>
+		<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUFQcWomxKqkrVP252wzZLjB-O9-2XCs_zcZ8sEDfeM4HUk12k" alt="Mountain View" style="width:250px;height:200px;">
+		<p>First attempt against count Dooku</p>
+		
+		<a href=homepage.html>Home</a>
+	</body>
+</html>
