@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Feedback</title>
+	</head>
+		
+						
+	<body>
+		<div>
+			<label for="user">Names</label>
+			<input type="text" id="first name" placeholder= "First and last name">
+								
+		</div>
+							
+		<div>
+			<label for="user"> E-mail</label>
+			<input type="text" id="email"  placeholder= "Type your email">
+		</div>
+		
+		<div>
+			<label>Grade the site</label>
+				<SELECT>
+					 <OPTION> I like it </OPTION>
+					 <OPTION> I am not sure </OPTION>
+					 <OPTION> I do not like it </OPTION>
+				</SELECT>
+		</div>
+	
+		<div>
+			<label> Feedback </label>
+		</div>
+				
+		<div>
+			<textarea rows = "5" cols="25">
+			</textarea>	
+		</div>
+	<a href=homepage.html>Home</a>
+	</body>
+</html>
