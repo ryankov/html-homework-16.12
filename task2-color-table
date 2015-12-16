@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Colour table</title>
+	</head>
+	<body>
+	
+		<table border="1" style="width:100%">
+			<caption> Colour table</caption>
+			<thead>
+				<tr> 
+					<th> Colour number </th>
+					<th> Colour name </th>
+				</tr>
+			</thead>
+			 
+			 <tbody> 
+			 	<tr bgcolor="#FFEBCD">
+			 		<td>#FFEBCD</td>
+			 		<td>BlanchedAlmond </td>	
+			 	</tr>
+			 	
+			 	<tr bgcolor="#7FFF00">
+			 		<td>#7FFF00</td>
+			 		<td>Chartreuse </td>	
+			 	</tr>
+			 	
+			 	<tr bgcolor="#8B0000">
+			 		<td>#8B0000</td>
+			 		<td>DarkRed </td>	
+			 	</tr>
+			 	
+			 	<tr bgcolor="#FFD700">
+			 		<td>#FFD700</td>
+			 		<td>Gold</td>	
+			 	</tr>
+			 	
+			 	<tr bgcolor="#CD5C5C">
+			 		<td>#CD5C5C</td>
+			 		<td>Indian Red</td>	
+			 	</tr>
+			 	
+			 	<tr bgcolor="#FF4500">
+			 		<td>Orange Red</td>
+			 		<td>BlanchedAlmond </td>	
+			 	</tr>
+			 	
+			 	<tr bgcolor="#663399">
+			 		<td>#663399</td>
+			 		<td>RebeccaPurple </td>	
+			 	</tr>
+			 </tbody>
+		</table>
+	</body>
+</html>
